@@ -1,4 +1,4 @@
-🔭 I’m currently working on RD53 Front Ends for my master's degree project under the supervision of PhD Luigi Gaioni (https://rd53.web.cern.ch/).
+
 <p align="center">
 	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=agalliani&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 </p>
