@@ -2,7 +2,7 @@
 #### I am a Engineering and Applied Science PhD Student. 
 
 
-My main interests are the study and the design of microsensors and multisensors embedded platforms and the way they can be connected into a bigger network.
+I'm a computer engineer with a strong interest in the design of CMOS Integrated Circuits, multisensors embedded platforms and the way they can be connetted into bigger networks.
 
 #### During my studies I deepened advanced topics regarding advanced programming, the design of computer, mechatronic and microelectronic systems.
 
