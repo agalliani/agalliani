@@ -1,11 +1,7 @@
+#### I'm a Computer Engineer passionate about designing cutting-edge CMOS Integrated Circuits and embedded systems.
 
-#### I am a Engineering and Applied Science PhD Student. 
+My research focuses on developing innovative solutions for high-energy particle detectors, contributing to advancements in particle physics.
 
+#### During my PhD at the University of Bergamo, I am developing and characterizing front-end circuits in 28nm CMOS technology, significantly improving detector performance.
 
-I'm a computer engineer with a strong interest in the design of CMOS Integrated Circuits, multisensors embedded platforms and the way they can be connetted into bigger networks.
-
-#### During my studies I deepened advanced topics regarding advanced programming, the design of computer, mechatronic and microelectronic systems.
-
-I work to the Falaphel project as a Research Fellow at National Institute for Nuclear Physics (INFN), section of Pavia. My professional duties are the design, test and characterization of front-end circuits for next generation High Energy Physics pixel detectors.
-
-#### I'm also collaborating with Sorint.tek working as web developer on the MangroviaIoT platform.
+I have a strong interest in the interface between hardware and software, and I am gaining solid experience in programming microcontrollers.
