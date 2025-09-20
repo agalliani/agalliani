@@ -1,7 +1,7 @@
-#### I'm a Computer Engineer passionate about designing cutting-edge CMOS Integrated Circuits and embedded systems.
+#### I’m a Computer Engineer passionate about building high-performance systems at the intersection of hardware and software.
 
-My research focuses on developing innovative solutions for high-energy particle detectors, contributing to advancements in particle physics.
+During my PhD at the University of Bergamo, I design and simulate front-end circuits in 28nm CMOS for high-energy particle detectors, improving performance and reliability.
 
-#### During my PhD at the University of Bergamo, I am developing and characterizing front-end circuits in 28nm CMOS technology, significantly improving detector performance.
+#### I have experience with microcontroller programming, Python automation, and full-stack development, enjoying the challenge of solving complex problems and delivering elegant, efficient solutions.
 
-I have a strong interest in the interface between hardware and software, and I am gaining solid experience in programming microcontrollers.
+![agalliani's Stats](https://github-readme-stats.vercel.app/api?username=agalliani&theme=default&show_icons=true&hide_border=false&count_private=true)
