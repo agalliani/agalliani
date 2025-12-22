@@ -5,4 +5,3 @@ During my PhD at the University of Bergamo, I designed, simulated and characteri
 #### I have experience with microcontroller programming, Python automation, and full-stack development, enjoying the challenge of solving complex problems and delivering elegant, efficient solutions.
 
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agalliani&hide=vhdl,systemverilog&theme=tokyonight)
