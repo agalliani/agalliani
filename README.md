@@ -4,4 +4,6 @@ During my PhD at the University of Bergamo, I designed, simulated and characteri
 
 #### I have experience with microcontroller programming, Python automation, and full-stack development, enjoying the challenge of solving complex problems and delivering elegant, efficient solutions.
 
+I am now involved in the development of next-gen IMU ASICs within my team-mates at Bosch Sensortec.
+
 
